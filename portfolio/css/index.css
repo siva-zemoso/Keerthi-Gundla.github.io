@@ -4,9 +4,7 @@
     box-sizing: border-box;
     font-family: sans-serif;
     background-color: #AEDBCE;
-    background-image: url("/home/keerG/frontend/images/background-image.jpeg");
-    background-repeat: no-repeat;
-    background-size: 100%;
+    
     
 }
 
@@ -126,6 +124,7 @@ hr{
     font-size: 1.5rem;
     border-radius: 5rem;
     margin-left:7rem;
+    cursor: pointer;
 }
 
 .contact-form form button:hover{
